@@ -1,0 +1,61 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  property_no: MyString
+  property_url: MyText
+  photo_url: MyText
+  property_street: MyText
+  property_city: MyText
+  property_state: MyText
+  page_views: MyText
+  latitude: MyString
+  longitude: MyString
+  date_available: MyText
+  general_features: MyText
+  outdoor_features: MyText
+  indoor_features: MyText
+  beds: MyText
+  baths: MyText
+  car_space: MyText
+  price: MyText
+  bond: MyText
+  property_type: MyText
+  agent_name: MyText
+  agency_name: MyText
+  agent_address: MyText
+  property_heading: MyText
+  property_desc: MyText
+  inpection_time: MyText
+  floorplan: MyText
+  crawl_date_time: MyText
+  uploaded_file_name: MyString
+
+two:
+  property_no: MyString
+  property_url: MyText
+  photo_url: MyText
+  property_street: MyText
+  property_city: MyText
+  property_state: MyText
+  page_views: MyText
+  latitude: MyString
+  longitude: MyString
+  date_available: MyText
+  general_features: MyText
+  outdoor_features: MyText
+  indoor_features: MyText
+  beds: MyText
+  baths: MyText
+  car_space: MyText
+  price: MyText
+  bond: MyText
+  property_type: MyText
+  agent_name: MyText
+  agency_name: MyText
+  agent_address: MyText
+  property_heading: MyText
+  property_desc: MyText
+  inpection_time: MyText
+  floorplan: MyText
+  crawl_date_time: MyText
+  uploaded_file_name: MyString
